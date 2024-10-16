@@ -1,6 +1,7 @@
 # Sample-Selenium-Java-Automation-Test-Framework
 
-I have automated the zipBoard UI and completed the following tasks. : 
+I have developed a sample Test Automation Framework for the UI of zipBoard using Selenium with Java, showcasing my expertise in Automation Testing. 
+As part of this project, I successfully completed the following tasks. 
    
 -  Automated zipBoard login process.
 -  Developed an automated test script for creating a new project.
