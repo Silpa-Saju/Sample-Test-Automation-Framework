@@ -53,4 +53,7 @@ Kindly provide credentials (email and password) for zipBoard of sheet ‘UserLog
 - Reports generated after running the testng.xml file can be found in src/target/surefire-reports/html/extent.html.
 - Open extent.html in any web browser
 
+# Sample screenshots of Report generated
+
+
 
